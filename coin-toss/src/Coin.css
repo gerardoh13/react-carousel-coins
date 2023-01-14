@@ -1,0 +1,13 @@
+.Coin > img {
+    width: 150px;
+}
+
+.flip {
+    transition: transform 0.4s;
+    transform: rotateY(720deg);
+    transform-style: preserve-3d;
+  }
+
+  .hidden {
+    visibility: hidden;
+  }

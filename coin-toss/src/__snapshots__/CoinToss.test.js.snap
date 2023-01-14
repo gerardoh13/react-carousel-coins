@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <h1
+    class="mb-3"
+  >
+    Let's flip a coin!
+  </h1>
+  <div
+    class="Coin"
+  >
+    <img
+      alt="heads"
+      class=" hidden"
+      data-testid="coin"
+      src="https://fortunetellingplus.com/assets/img/coins/Half-Dollar-2016-head.png?quality=50"
+    />
+  </div>
+  <button
+    class="btn btn-secondary my-3"
+  >
+    FLIP MEEEE
+  </button>
+  <p>
+    Out of 0 flips, there have been 0 heads and 0 tails.
+  </p>
+</DocumentFragment>
+`;
